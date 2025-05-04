@@ -33,7 +33,7 @@ set updatetime=300                      " Faster completion
 set timeoutlen=500                      " By default timeoutlen is 1000 ms
 set formatoptions-=cro                  " Stop newline continution of comments
 set clipboard+=unnamedplus
-" set relativenumber  comentei essa linha pq eh um cu esse recurso
+" set relativenumber  config para relativizar numeros a esquerda do editor
 set encoding=utf8
 
 set completeopt=menuone,noselect
